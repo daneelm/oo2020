@@ -14,3 +14,7 @@ public class ring1{
         System.out.println("Ringi raadius on " + P);
     }
 }
+
+[danieeel@greeny 01]$ java ring1 8
+Ringi pindala on 201.06192982974676
+Ringi raadius on 50.26548245743669
