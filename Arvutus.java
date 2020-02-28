@@ -22,5 +22,3 @@ public class Arvutus{
         System.out.println(geomKeskmine2(arvud));
     }
 }
-
-
