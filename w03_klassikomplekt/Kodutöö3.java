@@ -7,7 +7,7 @@ public class Kodutöö3{
         Kommentaar l2=new Kommentaar(k2, "Kuidas ilm õues on?");
         System.out.println(l2);
         Kommentaar l3=new Kommentaar(k1, "Sajab vihma");
-        System.ou
+        System.out.println(l3);
     }
 }
 
